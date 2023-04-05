@@ -2,10 +2,11 @@
 layout: none
 title: Contents
 ---
-
+<ul>
 {% assign doclist = site.static_files | sort: 'url'  %}
   {% for doc in doclist %}
     {& if doc.url contains 'contents/' &}
--     [{{ doc.name }}]({{ site.baseurl }}{{ doc.url }})
+       <li><a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.url }}</a></li>
     {& endif &}
   {% endfor %}
+</ul>
