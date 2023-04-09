@@ -1,5 +1,5 @@
-title: Midnight theme
-description: Midnight is a theme for GitHub Pages.
-show_downloads: true
+title: NHGM.github.io
+description: NHGM.github.io is for GitHub Pages.
+show_downloads: False
 google_analytics:
 theme: jekyll-theme-midnight
