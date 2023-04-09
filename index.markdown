@@ -4,3 +4,15 @@
 
 layout: home
 ---
+
+## ADXL355_i2c_RPi
+
+ADXL355のi2c接続通信
+
+https://github.com/nhashimoto-gm/ADXL355_i2c_RPi
+
+## BNO055_i2c_RPi
+
+BNO055のi2c接続通信
+
+https://github.com/nhashimoto-gm/BNO055_i2c_RPi
