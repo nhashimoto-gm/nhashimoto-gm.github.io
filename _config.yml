@@ -28,14 +28,15 @@ github_username:  nhashimoto-gm
 
 # Build settings
 #theme: jekyll-theme-cayman
-theme: jekyll-theme-midnight
+remote_theme: pages-themes/midnight@v0.2.0
 #theme: jekyll-theme-slate
 #theme: jekyll-theme-minimal
 #theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-
+  - jekyll-remote-theme
+  
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
