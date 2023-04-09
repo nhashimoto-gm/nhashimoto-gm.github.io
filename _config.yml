@@ -48,7 +48,12 @@ remote_theme: pages-themes/midnight@v0.2.0
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+exclude:
+  - _includes/
+  - _layouts/
+  - _sass/
+  - assets/
+  - _posts/
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
