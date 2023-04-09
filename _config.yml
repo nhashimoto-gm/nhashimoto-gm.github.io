@@ -27,7 +27,11 @@ url: "https://nhashimoto-gm.github.io/" # the base hostname & protocol for your 
 github_username:  nhashimoto-gm
 
 # Build settings
-theme: minima
+#theme: jekyll-theme-cayman
+theme: jekyll-theme-midnight
+#theme: jekyll-theme-slate
+#theme: jekyll-theme-minimal
+#theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
