@@ -2,4 +2,5 @@ title: NHGM.github.io
 description: NHGM.github.io is for amateur programmers.
 show_downloads: False
 google_analytics:
-theme: jekyll-theme-midnight
+#theme: jekyll-theme-midnight
+theme: jekyll-theme-hacker
