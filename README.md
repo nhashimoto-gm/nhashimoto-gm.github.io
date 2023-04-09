@@ -3,8 +3,6 @@ GitHub Pages website
 
 - https://nhashimoto-gm.github.io/
 
-@@include[README.md](https://github.com/nhashimoto-gm/ADXL355_i2c_RPi/blob/main/)
-
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 # Header 1
