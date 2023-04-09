@@ -4,7 +4,9 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./_posts/).
+[ADXL355_i2c_RPi](./_posts/2023-04-09-ADXL355_i2c_RPi.md).
+
+[BNO055_i2c_RPi](./_posts/2023-04-09-BNO055_i2c_RPi.md).
 
 # Header 1
 
