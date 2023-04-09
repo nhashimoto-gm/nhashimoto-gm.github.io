@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# Top page
+
 # BNO055_i2c_RPi
 
 [https://github.com/nhashimoto-gm/BNO055_i2c_RPi](https://github.com/nhashimoto-gm/BNO055_i2c_RPi)
