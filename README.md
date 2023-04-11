@@ -92,6 +92,8 @@ end
 ### Small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![zebra](https://github.githubassets.com/images/icons/emoji/unicode/1f993.png?v8)
+![wolf](https://github.githubassets.com/images/icons/emoji/unicode/1f43a.png?v8)
 
 ### Definition lists can be used with HTML syntax.
 
