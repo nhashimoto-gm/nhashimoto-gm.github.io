@@ -134,3 +134,9 @@ LOCAL NETWORK上のInfluxdb v1.8サーバーへデータを送信。
 Pimoroni Ltd, you have been very helpful.
 
 [https://github.com/pimoroni/bme680-python](https://github.com/pimoroni/bme680-python)
+
+
+
+* * *
+
+<meta name="google-site-verification" content="htBTQjxRAU5hz9Qz8y0sIyi6iapI1QIjR3dqT_FqAgw" />
